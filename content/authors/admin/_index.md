@@ -18,7 +18,7 @@ education:
  - course: Masters in Analytic Philosophy
    institution: École Normale Supérieure, Paris
    year: 2013
-email: ""
+email: "patricia@mirabile.fr"
 interests:
 - Psychology of Reasoning
 - Experimental and Statistical Methods
