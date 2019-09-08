@@ -31,7 +31,7 @@ role: Doctoral student in Philosophy and Cognitive Sciences
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'mailto:patricia@mirabile.fr'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/P_Mirabile
