@@ -6,13 +6,13 @@ bio: My research interests include the psychology and the philosophy of reasonin
 
 education:
  courses:
- - course: doctoral student in Philosophy and Cognitive Sciences
+ - course: doctoral student in Philosophy and Cognitive Science
    institution: Sorbonne University
    year: since 2016 
- - course: ENS graduate diploma. Major in Philosophy and Minor in Cognitive Sciences.
+ - course: ENS graduate diploma. Major in Philosophy and Minor in Cognitive Science
    institution: École Normale Supérieure, Paris
    year: 2011-2016
- - course: Masters in Cognitive Sciences
+ - course: Masters in Cognitive Science
    institution: École Normale Supérieure, Paris
    year: 2016
  - course: Masters in Analytic Philosophy
@@ -27,7 +27,7 @@ name: Patricia Mirabile
 organizations:
 - name: Sorbonne University
   url: ""
-role: Doctoral student in Philosophy and Cognitive Sciences
+role: Doctoral student in Philosophy and Cognitive Science
 social:
 - icon: envelope
   icon_pack: fas
