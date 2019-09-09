@@ -12,10 +12,10 @@ education:
  - course: ENS graduate diploma. Major in Philosophy and Minor in Cognitive Science
    institution: École Normale Supérieure, Paris
    year: 2011-2016
- - course: Masters in Cognitive Science
+ - course: masters in Cognitive Science
    institution: École Normale Supérieure, Paris
    year: 2016
- - course: Masters in Analytic Philosophy
+ - course: masters in Analytic Philosophy
    institution: École Normale Supérieure, Paris
    year: 2013
 email: "patricia@mirabile.fr"
