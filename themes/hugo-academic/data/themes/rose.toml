@@ -5,7 +5,8 @@ name = "Rose"
 light = true
 
 # Primary
-primary = "rgb(251, 191, 183)"
+primary = "rgb(236, 155, 143)"
+# rgb(256, 191, 183)
 
 # Menu
 menu_primary = "rgb(247, 247, 247)"
