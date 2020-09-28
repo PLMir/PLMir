@@ -2,8 +2,8 @@
   "name": "Academic Homepage",
   "short_name": "Academic Homepage",
   "lang": "en-us",
-  "theme_color": "rgb(236, 155, 143)",
-  "background_color": "rgb(236, 155, 143)",
+  "theme_color": "#3f51b5",
+  "background_color": "#3f51b5",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",
