@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic Homepage</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic Homepage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Academic Homepage</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Presentations</title>
+      <link>/presentations/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/presentations/</guid>
+      <description>&lt;h3 id=&#34;talks&#34;&gt;&lt;strong&gt;Talks&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;Features of conspiracy theories and of conspiracists&#39; minds&amp;rdquo; upcoming &lt;a href=&#34;http://projects.illc.uva.nl/PLM/delusion.html&#34;&gt;PLM Workshop&lt;/a&gt; on Delusion in Language and Mind.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Abductive conditionals as a test case for inferentialism.&amp;rdquo; MLC Seminar (March 2020). &lt;!-- raw HTML omitted --&gt;[slides]&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Explanatory considerations guide pursuit.&amp;rdquo; 41st Annual Meeting of the Cognitive Science Society (July 2019). &lt;!-- raw HTML omitted --&gt;[slides]&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Abductive conditionals as a test case for Inferentialism.&amp;rdquo; London Reasoning Workhop (July 2019). &lt;!-- raw HTML omitted --&gt;[slides]&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Best, second-best and good enough explanations: How they matter to reasoning.&amp;rdquo; London Reasoning Workshop (July 2017), X-Phil UK (July 2017), Leuven-Paris Epistemology Workshop (January 2018). &lt;!-- raw HTML omitted --&gt;[slides]&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;h3 id=&#34;posters&#34;&gt;&lt;strong&gt;Posters&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;Explanatory virtues and belief in conspiracy theories&amp;rdquo;. 41st Annual Meeting of the Cognitive Science Society (July 2019). &lt;!-- raw HTML omitted --&gt;[poster]&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Reasoning about abductive, inductive and deductive conditionals across development.&amp;rdquo; (with Zachary Horne). 41st Annual Meeting of the Cognitive Science Society (July 2019). &lt;!-- raw HTML omitted --&gt;[poster]&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publications/</guid>
+      <description>&lt;p&gt;Mirabile, P. &amp;amp; Douven, I. (2020). Abductive conditionals as a Test case for inferentialims. &lt;em&gt;Cognition&lt;/em&gt;. &lt;!-- raw HTML omitted --&gt;[pdf]&lt;!-- raw HTML omitted --&gt; - &lt;a href=&#34;https://osf.io/8nh2x/?view_only=2dcfc098369e42838812088066468e55&#34;&gt;[osf]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mirabile, P. &amp;amp; Lombrozo, T. (2019). Explanatory considerations guide pursuit. In &lt;em&gt;Proceedings of the 41st Annual Meeting of the Cognitive Science Society&lt;/em&gt;. &lt;a href=&#34;https://mindmodeling.org/cogsci2019/papers/0156/0156.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mirabile, P. &amp;amp; Horne, Z. (2019). Explanatory virtues and belief in conspiracy theories. In &lt;em&gt;Proceedings of the 41st Annual Meeting of the Cognitive Science Society&lt;/em&gt;. &lt;a href=&#34;https://mindmodeling.org/cogsci2019/papers/0410/0410.pdf&#34;&gt;[pdf]&lt;/a&gt; - &lt;a href=&#34;https://osf.io/wh78v/&#34;&gt;[osf]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Douven, I. &amp;amp; Mirabile, P. (2018). Best, second-best and good-enough explanations: How they matter to reasoning. &lt;em&gt;Journal of Experimental Psychology: Learning, Memory and Cognition&lt;/em&gt;.
+&lt;!-- raw HTML omitted --&gt;[pdf]&lt;!-- raw HTML omitted --&gt; -
+&lt;a href=&#34;https://osf.io/335t3/&#34;&gt;[osf]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Academic Homepage</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a postdoctoral researcher at the Institute for Logic, Language and Cognition (&lt;a href=&#34;https://www.illc.uva.nl/People/person/5047/Dr-Patricia-Mirabile&#34;&gt;ILLC&lt;/a&gt;), at the University of Amsterdam. My research is part of the NWO &amp;ldquo;From Language to Meaning&amp;rdquo; project which seeks to investigate how people form beliefs about generalizations and, relatedly, about conditional and causal relations. My work focuses on developing behavioral experiments in order to test and guide the development of formal theories of language and reasoning.&lt;/p&gt;
+&lt;p&gt;Previously, I completed a doctorate at Sorbonne University on the topic of explanatory reasoning in which I examined how explanatory considerations matter to reasoning in a variety of contexts, ranging from inferences about explanations, to pursuit decisions, the formation of conspiracist beliefs and the semantics of conditionals. Part of this work was done while I served as a visiting student at the &lt;a href=&#34;https://www.cognitionasu.org/&#34;&gt;CDD Lab&lt;/a&gt; at Arizona State University and at the &lt;a href=&#34;https://cognition.princeton.edu&#34;&gt;Concepts and Cognition Lab&lt;/a&gt; at Princeton University.&lt;/p&gt;
+&lt;p&gt;I am interested in the principles that guide us in reasoning and belief formation, as well as in the application of empirical findings to empower learners and reasoners to acquire knowledge more reliably and efficiently. I am also interested in the practices that enable scientists to make high quality reproducible science. Finally, I believe that science should be a collaborative and inclusive endeavour, and therefore be truly &lt;em&gt;open access&lt;/em&gt;: scientific publications, software and data should be open and freely accessible to all, and students and researchers should feel safe and respected as individuals with diverse identities and needs.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

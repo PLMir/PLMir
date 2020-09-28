@@ -11,6 +11,10 @@ comments: false  # Show comments?
 
 ### **Talks**
 
+"Features of conspiracy theories and of conspiracists' minds" upcoming [PLM Workshop](http://projects.illc.uva.nl/PLM/delusion.html) on Delusion in Language and Mind. 
+
+"Abductive conditionals as a test case for inferentialism." MLC Seminar (March 2020). {{% staticref "files/Abductive_conds_ILLC.pdf" %}}[slides]{{% /staticref %}}
+
 "Explanatory considerations guide pursuit." 41st Annual Meeting of the Cognitive Science Society (July 2019). {{% staticref "files/pursuit_cogsci2019.pdf" %}}[slides]{{% /staticref %}}
 
 "Abductive conditionals as a test case for Inferentialism." London Reasoning Workhop (July 2019). {{% staticref "files/inferentialism_lrw2019.pdf" %}}[slides]{{% /staticref %}}

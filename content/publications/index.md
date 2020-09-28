@@ -9,6 +9,8 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 ---
 
+Mirabile, P. & Douven, I. (2020). Abductive conditionals as a Test case for inferentialims. _Cognition_. {{% staticref "files/mirabile_douven2020.pdf" %}}[pdf]{{% /staticref %}} - [[osf]](https://osf.io/8nh2x/?view_only=2dcfc098369e42838812088066468e55)
+
 Mirabile, P. & Lombrozo, T. (2019). Explanatory considerations guide pursuit. In _Proceedings of the 41st Annual Meeting of the Cognitive Science Society_. [[pdf]](https://mindmodeling.org/cogsci2019/papers/0156/0156.pdf)
 
 Mirabile, P. & Horne, Z. (2019). Explanatory virtues and belief in conspiracy theories. In _Proceedings of the 41st Annual Meeting of the Cognitive Science Society_. [[pdf]](https://mindmodeling.org/cogsci2019/papers/0410/0410.pdf) - [[osf]](https://osf.io/wh78v/)
