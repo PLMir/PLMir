@@ -6,7 +6,7 @@ bio:
 
 education:
  courses:
- - course: Doctorate in Philosophy and Psychology
+ - course: Doctoral diploma
    institution: Sorbonne University
    year: 2016 - 2020
  - course: ENS graduate diploma, major in Philosophy and minor in Cognitive Science
